@@ -1,0 +1,51 @@
+body, html {
+    font-weight: lighter;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lavender;
+}
+
+.center {
+    text-align: center;
+    margin-top: 40px;
+}
+
+#contact {
+    background-color: lightslategrey;
+    text-align: center;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    opacity: 0.6;
+}
+a:active {
+    color: blueviolet;
+}
+
+#objective {
+    margin-left: 170px;
+    margin-right: 40px;
+}
+
+#profileBody {
+    margin-left: 170px;
+}
+
+.headings {
+    margin-top: 40px;
+}
+
+li > i {
+    float: right;
+    margin-right: 40px;
+}
